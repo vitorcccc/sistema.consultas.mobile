@@ -8,11 +8,7 @@
 
 | Nome | RM |
 |------|-----|
-| **Isadora Meneghetti** | RM556326 |
-| **Gustavo Ikeda** | RM554718 |
-| **Henrique Azevedo** | RM556707 |
-| **Renato Alvarenga** | RM556403 |
-| **Victoria Moura** | RM555474 |
+| **Vitor Couto Victorino** | 554965 |
 
 ---
 
