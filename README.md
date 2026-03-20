@@ -195,15 +195,15 @@ Consulta #1
 ┌─────────────────────────────────┐
 │        AGENDADA                 │
 ├─────────────────────────────────┤
-│ 👨‍⚕️ MÉDICO                      │
-│ Dr. Roberto Silva               │
+│ 👨‍⚕️ MÉDICO                       │
+│ Dr. Sergio Roberto            │
 │ CRM: CRM12345                   │
 │ Cardiologia                     │
 ├─────────────────────────────────┤
 │ 👤 PACIENTE                     │
-│ Carlos Andrade                  │
+│ Lucas Silva                     │
 │ CPF: 123.456.789-00             │
-│ Email: carlos@email.com         │
+│ Email: lucas@gmail.com          │
 │ Tel: (11) 98765-4321            │
 ├─────────────────────────────────┤
 │ 📅 DADOS DA CONSULTA            │
@@ -300,17 +300,3 @@ consultas-medicas/
 - Feedback visual
 
 ---
-
-## DISCIPLINA
-
-**Mobile Development e IoT**
-
-Professor: Hete Caetano dos Santos
-
-FACULDADE FIAP - 2026
-
----
-
-## LICENÇA
-
-Este projeto foi desenvolvido para fins educacionais. Todos os direitos reservados aos autores.
