@@ -8,7 +8,8 @@
 
 | Nome | RM |
 |------|-----|
-| **Vitor Couto Victorino** | 554965 |
+| **Isadora Meneghetti** | RM556326 |
+| **Vitor Couto Victorino** | RM554965 |
 
 ---
 
@@ -195,15 +196,15 @@ Consulta #1
 ┌─────────────────────────────────┐
 │        AGENDADA                 │
 ├─────────────────────────────────┤
-│ 👨‍⚕️ MÉDICO                       │
-│ Dr. Sergio Roberto            │
+│ 👨‍⚕️ MÉDICO                      │
+│ Dr. Roberto Silva               │
 │ CRM: CRM12345                   │
 │ Cardiologia                     │
 ├─────────────────────────────────┤
 │ 👤 PACIENTE                     │
-│ Lucas Silva                     │
+│ Carlos Andrade                  │
 │ CPF: 123.456.789-00             │
-│ Email: lucas@gmail.com          │
+│ Email: carlos@email.com         │
 │ Tel: (11) 98765-4321            │
 ├─────────────────────────────────┤
 │ 📅 DADOS DA CONSULTA            │
@@ -300,3 +301,17 @@ consultas-medicas/
 - Feedback visual
 
 ---
+
+## DISCIPLINA
+
+**Mobile Development e IoT**
+
+Professor: Hete Caetano dos Santos
+
+FACULDADE FIAP - 2026
+
+---
+
+## LICENÇA
+
+Este projeto foi desenvolvido para fins educacionais. Todos os direitos reservados aos autores.
