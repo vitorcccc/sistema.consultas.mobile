@@ -31,14 +31,6 @@ Este é um aplicativo mobile de **Sistema de Consultas Médicas** desenvolvido e
 
 ---
 
-## LINK DO REPOSITÓRIO
-
-**Repositório principal:** [[https://github.com/isadorameneghetti/sistema-consultas-mobile](https://github.com/isadorameneghetti/sistema-consultas-mobile)
-](https://github.com/vitorcccc/sistema.consultas.mobile)
-**Branch do projeto:** `main`
-
----
-
 ## CONCEITOS DE REACT NATIVE UTILIZADOS
 
 Este projeto foi desenvolvido aplicando todos os conceitos abordados em aula:
