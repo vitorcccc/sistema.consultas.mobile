@@ -33,8 +33,8 @@ Este é um aplicativo mobile de **Sistema de Consultas Médicas** desenvolvido e
 
 ## LINK DO REPOSITÓRIO
 
-**Repositório principal:** [https://github.com/isadorameneghetti/sistema-consultas-mobile](https://github.com/isadorameneghetti/sistema-consultas-mobile)
-
+**Repositório principal:** [[https://github.com/isadorameneghetti/sistema-consultas-mobile](https://github.com/isadorameneghetti/sistema-consultas-mobile)
+](https://github.com/vitorcccc/sistema.consultas.mobile)
 **Branch do projeto:** `main`
 
 ---
